@@ -45,3 +45,6 @@ group :development do
   # gem "spring"
 end
 
+
+gem "devise", "~> 4.9"
+gem "devise-api", "~> 0.1.3"
